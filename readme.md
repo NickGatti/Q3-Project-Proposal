@@ -26,21 +26,21 @@ Step nine: Data analysis will reveal that between the 2 parties, everything is a
 
 Step ten: Data analysis will reveal that perspective is only to the eye of the beholder, and the eye of the beholder can be blind. They may only see themselves in the road. An entire system to convince people that even though they focus on themselves as much as they do, they actually do matter to other people. So much so that even through total blindness people will still love them. Comments will be disabled.
 
-## Who uses it: People who are interested in growing up.
+### Who uses it: People who are interested in growing up.
 
-## What outputs do they need: They need to know how they affect everyone else and also themselves with what they assume, with what they say and what they do, no matter who you are.
+### What outputs do they need: They need to know how they affect everyone else and also themselves with what they assume, with what they say and what they do, no matter who you are.
 
-## What inputs do I need to generate those outputs: The thoughts of people.
+### What inputs do I need to generate those outputs: The thoughts of people.
 
-## Technologies used: HTML, CSS SQL, KNEX, Postgres, express.js, Materialize
+### Technologies used: HTML, CSS SQL, KNEX, Postgres, express.js, Materialize
 
-## User info: Logged in, View mode (not logged in), admin login
+### User info: View mode (not logged in), user logged in, moderator login, admin login
 
-## Working Output: Data that can be used for things like online reviews, the intention can be analyzed with this data to see if the user was reviewing themselves of if they were reviewing the product.
+### Working Output: Data that can be used for things like online reviews, the intention can be analyzed with this data to see if the user was reviewing themselves of if they were reviewing the product.
 
-## KarmaComments: Will use the input from users (like a 1-10 numerical selection about how they felt) and combine that with technologies that can connect words and numerical values to make trends of data. Trends of data will reveal how words affect all people and can be used to completely change everything and anything around them. Data will reveal perspective of change, what if, someone (everyone changed). The many on one side of the road will see themselves and the one person alone on the other and they will no longer be divided.
+### KarmaComments: Will use the input from users (like a 1-10 numerical selection about how they felt) and combine that with technologies that can connect words and numerical values to make trends of data. Trends of data will reveal how words affect all people and can be used to completely change everything and anything around them. Data will reveal perspective of change, what if, someone (everyone changed). The many on one side of the road will see themselves and the one person alone on the other and they will no longer be divided.
 
-## What I want to prove:
+# What I want to prove:
 
 User logged into MyEdibleReviewApp.com and it asks, how was your day?
 
@@ -68,7 +68,7 @@ For example 2 we will use 'Bad'
 Example 2
 
 ```
-User logs into MyEdibleReviewApp.com and reveals they are feeling good
+User logs into MyEdibleReviewApp.com and reveals they are feeling bad
 User buys or reviews a product
 MyEdibleReviewApp asks the user again how they are feeling
 
@@ -79,8 +79,8 @@ Output:
   2. Probably going to give a bad review about THEMSELVES
 ```
 
-### If you get served shit and you serve shit...
-### ...If you serve shit, you eat shit.
+# If you get served shit and you serve shit...
+# ...If you serve shit, you eat shit.
 
 # If you get served shit and you serve love...
 # ...If you serve love, you eat love.
