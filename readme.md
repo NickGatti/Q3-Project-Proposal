@@ -80,7 +80,7 @@ Output:
 ```
 
 # If you get served shit and you serve shit...
-# ...If you serve shit, you eat shit.
+# ...If you serve love, you eat shit.
 
 # If you get served shit and you serve love...
 # ...If you serve love, you eat love.
