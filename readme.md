@@ -1,3 +1,10 @@
+Only get really good at one thing,
+
+Post, Wait
+
+Under Promise Over Deliver
+
+
 # Project 3
 
 ### By anonymous login or not
